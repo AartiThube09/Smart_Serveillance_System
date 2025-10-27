@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "aartithube0902@gmail.com",
+  "sender_password": "rnqx nruy gvvg wqwo",
+  "use_app_password": true
+}

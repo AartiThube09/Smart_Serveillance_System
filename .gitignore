@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Generated/Runtime Files
+alerts/
+logs/
+*.log
+saved_frame_*.jpg
+alert_frame_*.jpg
+alert_data_*.json
+alert_message_*.txt
+
+# Test/Development Files (Optional - remove if you want to keep them)
+violence/1.mp4
+violence/non-violent/
+violence/violent/
+facialexpression/faceimg.jpg
+Object_detection/object_weapon_detection.ipynb
+
+# Alternative/Backup Files (Optional - remove if you want to keep them)
+integration.py
+basic_surveillance_gui.py
+simple_surveillance_gui.py
+main_surveillance_app.py
+config_advanced.py
+detection_engine.py
+alert_manager.py
+video_capture.py
+start_here.py
+
+# Docker (if not using)
+smart-surv-system/
+
+# Violence detection project (if separate)
+violence_detection_project/
+
+# Camera files
+camera.py
+efficientdet-d0_240.tlt
