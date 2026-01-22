@@ -1,4 +1,8 @@
 # Python
+
+clean_system/
+
+tools/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -42,7 +46,7 @@ ehthumbs.db
 Thumbs.db
 
 # Generated/Runtime Files
-alerts/
+archive/
 logs/
 *.log
 saved_frame_*.jpg
